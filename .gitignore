@@ -1,0 +1,38 @@
+# Virtual environment
+.venv/
+venv/
+
+# Byte-compiled / optimized / dll files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info
+.eggs/
+parts/
+sdist/
+var/
+*.env
+.env
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+.Trashes
+Thumbs.db
+
+# Jupyter Notebook files
+.ipynb_checkpoints
